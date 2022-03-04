@@ -1,5 +1,3 @@
-# remziozturk
-
 ### Hi👋, Welcome To My Github Profile
 
 I'm Remzi, Yaklaşık beş yıldır yazılım dünyasının içindeyim, kendimi geliştirmeyi ve sürekli bir şeyler araştırmayı çok seviyorum. Hatalarımdan sürekli ders çıkararak daha iyisini yapma konusunda gerçekten inatçıyımdır. Elimde ki işi bitirmeden asla rahat edemem. Aynı zamanda grafik tasarım ile de hobi olarak ilgileniyorum.
